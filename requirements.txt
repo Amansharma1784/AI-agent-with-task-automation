@@ -1,0 +1,27 @@
+# Core framework
+fastapi
+uvicorn[standard]
+
+# Frontend
+nicegui
+
+# AI Agent System
+agno>=0.16.5
+
+# Web Search API
+tavily-python
+
+# Optional Browser Automation (for booking, scraping etc.)
+playwright
+
+# Environment variable handling
+python-dotenv
+
+# HTTP requests (sometimes useful)
+requests
+
+# Optional utilities (logging, storage, JSON formatting)
+pydantic
+
+openai
+nicegui
